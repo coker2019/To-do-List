@@ -17,13 +17,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [MY first capstone project] <a name="about-project"></a>
-The project is my first capstone project.
-It a project to sell tickets for an Ict conference for students 
-in south-south Nigeria.
-it could be used for other topics
-Please check out this loom recording.
-https://www.loom.com/share/b7ba3994e26d4b46bbc341064c2266a4
+# 📖 [MY To-DO-list] <a name="about-project"></a>
+The project is my To-do-List
+It a project to add my activities for the day.
+Activities are added and deleted when its done.
+
 
 
 
@@ -40,9 +38,9 @@ https://www.loom.com/share/b7ba3994e26d4b46bbc341064c2266a4
 Key Features
 
 key features of the application:
-- The app allows user to view information.
+- The app allows add Activity for the day.
 - Accepts data.
-- Gives feedback to users.
+- Activities can be deleted.
 - Allows users to view and information.
 - The app displays on both mobile and desktop.
 
@@ -55,7 +53,7 @@ key features of the application:
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://coker2019.github.io/Coker-Capstone/ )
+- [Live Demo Link]--coming soon!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,8 +76,8 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- With a git cmd, git bash or visual studio terminal, clone repo with **``git clone https://github.com/coker2019/Coker_Portfolio.git``** to download the repository locally on your machine.
-- Then you navigate to the folder in your code editor with the command *``cd COKER_PORTFOLIO``*.
+- With a git cmd, git bash or visual studio terminal, clone repo with **``git@github.com:coker2019/To-do-List.git``** to download the repository locally on your machine.
+- Then you navigate to the folder in your code editor with the command *``cd COKER_TO-DO-LIST``*.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,6 +106,7 @@ Clone this repository to your desired folder:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+- Add and remove functions will be implemented.
 -
 
 
@@ -133,8 +132,7 @@ Feel free to check the [issues page](../../issues/).
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-Template used in project provided by (Microverse).
-Original design idea by Cindy Shin https://www.behance.net/adagio07 
+Microverse.
 
 
 
@@ -146,7 +144,6 @@ Original design idea by Cindy Shin https://www.behance.net/adagio07
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
- [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
