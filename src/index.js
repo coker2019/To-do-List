@@ -3,24 +3,25 @@ import './style.css';
 const taskContainer = document.querySelector('.all-tasks');
 const tasks = [
   {
-    id: Date.now(),
-    completed: false,
     description: 'Make Breakfast',
+    completed: false,
+    id: 0,
+
   },
   {
-    id: Date.now(),
+    description: 'Clean the house',
     completed: false,
-    description: 'Clean the House',
+    id: 1,
   },
   {
-    id: Date.now(),
+    description: 'go to work',
     completed: false,
-    description: 'Report to Work',
+    id: 2,
   },
   {
-    id: Date.now(),
+    description: 'Join stand up team',
     completed: false,
-    description: 'join stand up team',
+    id: 3,
   },
 ];
 
