@@ -126,6 +126,9 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
+Show your support ⭐️
+If you like this project, please give it a star and share it with your friends.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
