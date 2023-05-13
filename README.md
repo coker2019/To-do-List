@@ -43,7 +43,8 @@ key features of the application:
 - Activities can be deleted.
 - Allows users to view and information.
 - The app displays on both mobile and desktop.
-
+- Add and remove functions will be implemented.
+- Add interactions that clears all To-Do-List.
 
 
 
@@ -107,7 +108,8 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 - Add and remove functions will be implemented.
--
+- Add interactions that clears all To-Do-List.
+- Live Demo.
 
 
 
