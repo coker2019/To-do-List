@@ -57,7 +57,7 @@ key features of the application:
 - [Live Demo Link]--https://coker2019.github.io/To-do-List/dist/
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">https://coker2019.github.io/To-do-List/dist/</a>)</p>
 
 <!-- GETTING STARTED -->
 
