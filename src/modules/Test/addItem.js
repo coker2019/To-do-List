@@ -17,5 +17,5 @@ const addRemove = {
     return collection;
   },
 };
-  
+
 module.exports = { collection, addRemove };
