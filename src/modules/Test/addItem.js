@@ -12,6 +12,10 @@ const addRemove = {
       collection.push(data);
     }
   },
- 
+  removeTask: (index) => {
+    collection.splice(index, 1);
+    return collection;
+  },
+};
   
 module.exports = { collection, addRemove };
